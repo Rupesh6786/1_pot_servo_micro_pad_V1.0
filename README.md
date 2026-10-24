@@ -1,4 +1,4 @@
-# 🕹️ The Single-Pot Servo Controller & Macro Pad
+#  The Single-Pot Servo Controller & Macro Pad
 
 A compact, 3D-printable, rechargeable control console designed for makers, robotics enthusiasts, and DIY builders. Take precise control of your servos, testbenches, or custom computer macros with clean hardware and reliable portability.
 
