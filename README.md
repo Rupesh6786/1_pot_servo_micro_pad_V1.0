@@ -97,8 +97,7 @@ servo-controller-macro-pad/
 
 ## 👤 Author
 
-**Rupesh H. Thakur**  
-🎓 BSc.IT Student, Thakur College of Science and Commerce  
+**Rupesh H. Thakur**   
 🔗 [GitHub – @Rupesh6786](https://github.com/Rupesh6786)  
 📧 Email: 55rupeshthakur@gmail.com  
 
