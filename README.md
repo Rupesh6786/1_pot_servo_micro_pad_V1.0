@@ -6,7 +6,7 @@ A compact, 3D-printable, rechargeable control console designed for makers, robot
 
 ## 📸 Project Previews
 
-| Assembled Console | CAD Assembly | Electronics Layout |
+| Assembled Console | Electronics Layout | CAD Assembly |
 | :---: | :---: | :---: |
 | ![Image 1](image1.png) | ![Image 2](image2.png) | ![Image 3](image3.png) |
 
