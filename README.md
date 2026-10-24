@@ -93,7 +93,20 @@ servo-controller-macro-pad/
 └── README.md
 ```
 
-👤 Author
-Rupesh H. Thakur
-🔗 GitHub – @Rupesh6786
-📧 Email: 55rupeshthakur@gmail.com
+---
+
+## 👤 Author
+
+**Rupesh H. Thakur**  
+🎓 BSc.IT Student, Thakur College of Science and Commerce  
+🔗 [GitHub – @Rupesh6786](https://github.com/Rupesh6786)  
+📧 Email: 55rupeshthakur@gmail.com  
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for more information.
+
+---
