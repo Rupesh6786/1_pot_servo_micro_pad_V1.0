@@ -14,11 +14,11 @@ A compact, 3D-printable, rechargeable control console designed for makers, robot
 
 ## 🚀 Features
 
-- 🎛️ **Precision Input:** Smooth rotary potentiometer for real-time manual servo positioning or analog macro control.
-- 📺 **Visual Feedback:** Precision cutout designed for a **0.96" I2C OLED display (128x64)** to monitor live angles, PWM signal values, or custom UI menus.
-- 🔋 **Portable Power Management:** Houses a single **18650 Li-ion battery** paired with a **TP4056 USB-C charging module** for untethered, rechargeable operation.
-- ⚙️ **Robust Enclosure:** Uses **M3 heat-set brass inserts** and socket head cap screws for reliable, repeated mechanical assembly and disassembly.
-- 📐 **Customizable CAD Source:** Complete parametric **Autodesk Fusion 360 source file** included to tweak component tolerances or add extra controls.
+-  **Precision Input:** Smooth rotary potentiometer for real-time manual servo positioning or analog macro control.
+-  **Visual Feedback:** Precision cutout designed for a **0.96" I2C OLED display (128x64)** to monitor live angles, PWM signal values, or custom UI menus.
+-  **Portable Power Management:** Houses a single **18650 Li-ion battery** paired with a **TP4056 USB-C charging module** for untethered, rechargeable operation.
+-  **Robust Enclosure:** Uses **M3 heat-set brass inserts** and socket head cap screws for reliable, repeated mechanical assembly and disassembly.
+-  **Customizable CAD Source:** Complete parametric **Autodesk Fusion 360 source file** included to tweak component tolerances or add extra controls.
 
 ---
 
